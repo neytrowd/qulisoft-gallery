@@ -1,0 +1,14 @@
+.root{
+
+  .gallery{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+
+  .message{
+    text-align: center;
+    font-size: 25px;
+    font-weight: 700;
+  }
+}

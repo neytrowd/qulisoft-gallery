@@ -1,0 +1,19 @@
+.root{
+
+  .photo{
+    max-width: 600px;
+    margin: 0 auto;
+
+    img{
+      display: block;
+      max-width: 100%;
+    }
+
+  }
+
+  .message{
+    text-align: center;
+    font-size: 25px;
+    font-weight: 700;
+  }
+}
