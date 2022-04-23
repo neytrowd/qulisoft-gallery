@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/qulisoft-gallery/static/css/main.aae01e77.css",
+    "main.js": "/qulisoft-gallery/static/js/main.acf37f07.js",
+    "index.html": "/qulisoft-gallery/index.html",
+    "main.aae01e77.css.map": "/qulisoft-gallery/static/css/main.aae01e77.css.map",
+    "main.acf37f07.js.map": "/qulisoft-gallery/static/js/main.acf37f07.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aae01e77.css",
+    "static/js/main.acf37f07.js"
+  ]
+}
